@@ -1,0 +1,60 @@
+<html>
+<head>
+	<title>Maxim Kirsebom's Homepage</title>
+	<link href="style3.css" rel="stylesheet" type="text/css">
+</head>
+
+	<body>
+	<div class="wrapper">
+		<div class="heading">
+			<h1>First website</h1>
+		</div>
+			<div class="row">
+			<ul class="main-nav">
+				<li class="active"><a href="index.html"> HOME </a></li>
+				<li><a href="papers.html"> PAPERS </a></li>
+				<li><a href=""> RESEARCH </a></li>
+				<li><a href=""> TALKS </a></li>
+				<li><a href=""> TEACHING </a></li>
+				<li><a href=""> CV </a></li>
+			</ul>
+			</div>
+			
+		<div class="intro">
+			Main content
+					<p>Dr. Maxim Sølund Kirsebom <br>
+					Postdoc
+					</p>
+					<br>
+					<p>
+					Contact:<br>
+					University of Hamburg<br>
+					Department of Mathematics<br>
+					Bundesstrasse 55<br>
+					20146 Hamburg<br>
+					Germany
+					</p>
+					<br>
+					<p>
+					Office: 204<br>
+					Email: maxim.kirsebom [at] uni-hamburg.de<br>
+					Phone: +49 40 42838-8373
+					</p>
+					<br>
+					<p>
+					Office hours:<br>
+					<b>Uni Hamburg (Geomatikum):</b> <br>By appointment<br>
+					<b>TU Harburg (Room 3.078):</b>  <br> During semester: Wednesday 8:30-9:30 <br> Between semesters: By appointment. 					
+					</p>
+				</div>
+		<div class="sidebar">
+			sidebar
+		</div>
+		<div class="footer">
+			footer
+			<br>
+			<b>Testing</b>
+		</div>
+	</div>
+</body>
+</html>

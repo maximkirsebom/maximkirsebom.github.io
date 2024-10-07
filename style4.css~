@@ -1,0 +1,262 @@
+*
+
+{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	width:770px; 
+	margin: 0 auto 0 auto; overflow:auto 
+	
+}
+
+.wrappertwo{
+	width:770px; 
+	margin: 0 auto 0 auto; overflow:auto 
+	
+	
+}
+
+.wrapperthree{
+	width:1000px; 
+	margin: 0 auto 0 auto; overflow:auto 
+	
+}
+
+.main-nav
+{
+	list-style: none;
+	margin-top: 45px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.main-nav li a
+{
+	color: black;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+
+.main-nav li.active a
+{
+	border: 1px solid black;
+
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid black;
+}
+
+.row
+{
+	max-width: 1000px;
+	margin: auto;
+}
+
+.content{
+	padding: 8px;
+	margin-left: 8px;
+	line-height: 1.4;
+	min-height: 420px;
+	width:385px;
+	float: left;
+	font-family: sans-serif;
+}
+
+.picdiv{
+	padding: 8px;
+	margin-left: 8px;
+	line-height: 1.4;
+	min-height: 420px;
+	width:320px;
+	float: right;
+	font-family: sans-serif;
+}
+
+.ppic img
+{
+	margin-right: 26px;
+	width: 250px;
+	height: auto;
+	float: right;
+}
+
+.papers{
+	width: 700px;
+	line-height: 1.7;
+	min-height: 400px;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+
+ol {
+  margin: 0 0 1.5em;
+  padding: 0;
+  counter-reset: item;
+}
+
+ol > li {
+  margin-bottom: 30px;
+  margin-top: 20px;
+  padding: 0 0 0 2em;
+  text-indent: -2em;
+  list-style-type: none;
+  counter-increment: item;
+}
+
+ol > li:before {
+  display: inline-block;
+  width: 1em;
+  padding-right: 0.5em;
+  font-weight: bold;
+  text-align: right;
+  content: counter(item) ".";
+}
+
+
+.research{
+	width: 700px;
+	line-height: 1.8;
+	min-height: 400px;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.CV{
+	width: 700px;
+	line-height: 1.4;
+	min-height: 400px;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.handsdays{
+	width: 700px;
+	line-height: 1.6;
+	font-family: sans-serif;
+	margin-left: 8px;
+	margin-top: 25px;
+	padding: 12px;
+}
+
+.researchlist{
+	width: 700px;
+	line-height: 2.0;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.seminarlist{
+	width: 1000px;
+	line-height: 2.0;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.talks{
+	width: 700px;
+	line-height: 1.4;
+	min-height: 400px;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.talkslistone{
+	width: 700px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.talkslisttwo{
+	width: 700px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.teaching{
+	width: 700px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+.teachinglistone{
+	width: 700px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.teachinglisttwo{
+	width: 700px;
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.ls1>li{
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+
+.ls2>li{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.ls3>li{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+
+
+.CV{
+	width: 700px;
+	line-height: 1.4;
+	font-family: sans-serif;
+	margin-left: 8px;
+	padding: 12px;
+}
+
+
+.seminar{
+	width: 1000px;
+	margin: 0 auto 0 auto; overflow:auto 
+	line-height: 1.8;
+	font-family: sans-serif;
+	margin-left: 15px;
+	padding: 12px;
+}

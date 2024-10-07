@@ -1,0 +1,48 @@
+
+.ppic img
+{
+	width: 250px;
+	height: auto;
+	float: right;
+	background-color: black;
+}
+
+
+		
+				<div class="ppic">
+							<img src="MSK.jpg">
+				</div>
+				
+				
+				
+					<!--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> -->
+					
+					.navigation{
+	height:50px;
+	background:lightgreen;
+}
+
+
+
+		<div class="navigation">
+			Navigation
+		</div>
+		
+		
+			font-family: sans-serif;
+			
+			
+body
+{
+	font-family: monospace;
+
+
+}
+
+
+.sidebar{
+	width: 390px;
+	background:lightblue;
+	min-height: 400px;
+	float: right;
+}

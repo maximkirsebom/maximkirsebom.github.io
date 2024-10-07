@@ -1,0 +1,57 @@
+<html>
+<head>
+	<title>Maxim Kirsebom's Homepage</title>
+	<link href="style4.css" rel="stylesheet" type="text/css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+
+	<body>
+	<div class="wrapper">
+			<div class="row">
+			<ul class="main-nav">
+				<li class="active"><a href="main.html"> HOME </a></li>
+				<li><a href="papers.html"> PAPERS </a></li>
+				<li><a href="research.html"> RESEARCH </a></li>
+				<li><a href="talks.html"> TALKS </a></li>
+				<li><a href="teaching.html"> TEACHING </a></li>
+				<li><a href="CV.html"> CV </a></li>
+			</ul>
+			</div>		
+		<div class="wrappertwo">
+			<div class="content">
+					<p>Dr. Maxim Sølund Kirsebom <br>
+					Postdoc<br>
+					<a href="CV_MSK.pdf" target="_blank">[CV]</a>
+					</p>
+					<br>
+					<br>
+					<p>
+					University of Hamburg<br>
+					Department of Mathematics<br>
+					Bundesstrasse 55<br>
+					20146 Hamburg<br>
+					Germany</p>
+					<br><br>
+					<p>Office: 204<br>
+					Email: maxim.kirsebom [at] uni-hamburg.de<br>
+					Phone: +49 40 42838-8373</p>	
+		</div>
+		<div class="picdiv">
+				<div class="ppic">
+				<img src="MSK.jpg">
+				</div>
+		</div>
+		</div>
+		<hr/>
+		<div class="handsdays">
+		+++NEWS+++<br><br>
+					<p>
+						<font size="3pt"><b><a href="https://sites.google.com/view/handsdays/" target="_blank">Hanseatic Dynamical Systems Days</a></font></b></p>
+						
+						<p>We are launching a recurring one-day workshop for dynamicists and ergodic theorists in Northern Germany.
+						The first edition of the event takes place on <b>June 29 2018</b> at the University of Hamburg.				
+					</p>
+		</div>
+	</div>
+</body>
+</html>
